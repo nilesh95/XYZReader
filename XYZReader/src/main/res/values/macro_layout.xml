@@ -4,7 +4,7 @@
     <dimen name="list_toolbar_side_margin">0dp</dimen>
     <integer name="list_column_count">2</integer>
 
-    <!-- detail -->
+
     <bool name="detail_is_card">false</bool>
     <dimen name="detail_photo_height">210dp</dimen>
     <dimen name="detail_card_top_margin">@dimen/detail_photo_height</dimen>
